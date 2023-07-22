@@ -10,7 +10,7 @@
         "graham-campbell/markdown": "^10.0",
         "guzzlehttp/guzzle": "^6.3",
         "kartik-v/krajee-markdown-editor": "@dev",
-        "laravel/framework": "5.5.*",
+        "laravel/framework": "5.6.*",
         "laravel/tinker": "~1.0"
     },
     "require-dev": {
